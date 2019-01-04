@@ -31,7 +31,7 @@ spam4.on('ready', () => {//Toxic Codes
 
 
 
-const prefix = "spam.";
+const prefix = "1";
 
 client.on("ready", () => {
 let channel = client.channels.get("529621058043772940")
