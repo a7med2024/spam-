@@ -7,25 +7,25 @@ const spam4 = new Discord.Client();
 
 client.on('ready', () => {//Toxic Codes
     console.log(`Logged in as ${client.user.tag} !`);//Toxic Codes
-          client.user.setActivity("by n3k4a|Premiumbot|Toxic Codes  .",{type: 'WATCHING'});//Toxic Codes
+          client.user.setActivity("by a7med|A7med spam  .",{type: 'WATCHING'});//Toxic Codes
   //Toxic Codes
   });//Toxic Codes
 
 bot.on('ready', () => {//Toxic Codes
     console.log(`Logged in as ${bot.user.tag} !`);//Toxic Codes
-          bot.user.setActivity("by n3k4a|Premiumbot|Toxic Codes  .",{type: 'WATCHING'});//Toxic Codes
+          bot.user.setActivity("by a7med|A7med spam   .",{type: 'WATCHING'});//Toxic Codes
   //Toxic Codes
   });//Toxic Codes
 
 spam2.on('ready', () => {//Toxic Codes
     console.log(`Logged in as ${spam2.user.tag} !`);//Toxic Codes
-          spam2.user.setActivity("by n3k4a|Premiumbot|Toxic Codes  .",{type: 'WATCHING'});//Toxic Codes
+          spam2.user.setActivity("by a7med|A7med spam   .",{type: 'WATCHING'});//Toxic Codes
   //Toxic Codes
   });//Toxic Codes
 
 spam4.on('ready', () => {//Toxic Codes
     console.log(`Logged in as ${spam4.user.tag} !`);//Toxic Codes
-          spam4.user.setActivity("by n3k4a|Premiumbot|Toxic Codes  .",{type: 'WATCHING'});//Toxic Codes
+          spam4.user.setActivity("by a7med|A7med spam   .",{type: 'WATCHING'});//Toxic Codes
   //Toxic Codes
   });//Toxic Codes
 
@@ -34,7 +34,7 @@ spam4.on('ready', () => {//Toxic Codes
 const prefix = "spam.";
 
 client.on("ready", () => {
-let channel = client.channels.get("530066944217317428")
+let channel = client.channels.get("529621058043772940")
 setInterval(function() {
 channel.send(`I NEED CREDITS NOW`);
 }, 999)
@@ -65,7 +65,7 @@ client.login(process.env.BOT_TOKEN);
 
 
 bot.on("ready", () => {
-let channel = bot.channels.get("530066944217317428")
+let channel = bot.channels.get("529621250205548547")
 setInterval(function() {
 channel.send(`I NEED CREDITS NOW`);
 }, 999)
@@ -99,7 +99,7 @@ bot.login(process.env.BOT_TOKEN2);
 
 
 spam2.on("ready", () => {
-let channel = spam2.channels.get("530066944217317428")
+let channel = spam2.channels.get("529621278055727105")
 setInterval(function() {
 channel.send(`I NEED CREDITS NOW`);
 }, 999)
@@ -130,7 +130,7 @@ spam2.login(process.env.BOT_TOKEN3);
 
 
 spam4.on("ready", () => {
-let channel = spam4.channels.get("530066944217317428")
+let channel = spam4.channels.get("529621316912021504")
 setInterval(function() {
 channel.send(`I NEED CREDITS NOW`);
 }, 999)
